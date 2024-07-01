@@ -1,2 +1,2 @@
 # usgamers
-USGamers Wiki
+Private repo to host Wiki for USGamers.
